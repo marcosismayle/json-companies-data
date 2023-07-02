@@ -6,7 +6,7 @@
         "phone": "(19) 3232-3679",
         "website": "https://conheca.campinas.sp.gov.br/pois/294",
         "imageurl": "https://conheca.campinas.sp.gov.br/images/front_end/logo_prefeitura.png",
-        "level": "x"
+        "level": "np"
       },
       {
         "name": "Savegnago Supermercados",
@@ -14,7 +14,7 @@
         "phone": "(19) 3233-1601",
         "website": "https://www.savegnago.com.br",
         "imageurl": "https://savegnagoio.vtexassets.com/assets/vtex/assets-builder/savegnagoio.store-theme/6.0.3/imgs/header/logo-desktop___a8be62564836c2814e16064134349a0f.svg",
-        "level": "x"
+        "level": "silver"
       },
       {
         "name": "Unimart Shopping Campinas",
@@ -22,7 +22,7 @@
         "phone": "(19) 3744-5000",
         "website": "https://www.unimart.com.br/",
         "imageurl": "https://gsobmidia.com.br/uploads/shoppings/10/logo_1610072119.png",
-        "level": "x"
+        "level": "golden"
       },
       {
         "name": "Shopping Parque das Bandeiras",
@@ -30,7 +30,7 @@
         "phone": "(19) 3728-4000",
         "website": "https://www.shoppingparquedasbandeiras.com.br/",
         "imageurl": "https://www.shoppingparquedasbandeiras.com.br/sites/parque-das-bandeiras/files/shopping-media/Cabe%C3%A7alho%20e%20Rodap%C3%A9/Logo_Shopping_Parque_Das_Bandeiras_9.png",
-        "level": "x"
+        "level": "golden"
       },
       {
         "name": "Parque D. Pedro Shopping",
@@ -38,7 +38,7 @@
         "phone": "(19) 3500-2665",
         "website": "https://parquedpedro.com.br/",
         "imageurl": "https://parquedpedro.com.br/data/files/D5/66/E4/94/F10C5810771DB958180808FF/LOGO%20PRETO%20E%20BRANCO.png",
-        "level": "x"
+        "level": "golden"
       },
       {
         "name": "Campinas Shopping",
@@ -46,7 +46,7 @@
         "phone": "",
         "website": "https://www.campinasshopping.com.br/",
         "imageurl": "https://www.campinasshopping.com.br/img/logo_white_header.png",
-        "level": "x"
+        "level": "silver"
       },
       {
         "name": "Selfie Store",
@@ -54,7 +54,7 @@
         "phone": "(19) 99895-1862",
         "website": "https://www.selfiestore.com.br/",
         "imageurl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/002/757/088/themes/common/logo-1734722816-1675131662-6800453d5912824e97e799dfec6f1b941675131662-320-0.png?0",
-        "level": "x"
+        "level": "bronze"
       },
       {
         "name": "Shopping Cabos Materiais Elétricos",
@@ -62,7 +62,7 @@
         "phone": "(19) 98829-9004",
         "website": "https://shoppingcabos.com.br/",
         "imageurl": "https://shoppingcabos.com.br/wp-content/uploads/2023/04/logo-150x55-Laranja-e-Azul-Claro-1.png",
-        "level": "x"
+        "level": "bronze"
       },
       {
         "name": "Taberna Do Portuga",
@@ -70,7 +70,7 @@
         "phone": "(19) 3256-2235",
         "website": "https://tabernadoportuga.com.br/",
         "imageurl": "https://tabernadoportuga.com.br/wp-content/uploads/2020/02/logo.png",
-        "level": "x"
+        "level": "bronze"
       }
     ]
   }
